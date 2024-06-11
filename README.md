@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey 👋, I'm Marlos<br>know a little about me:<br><br>👨🏽‍💻 I'm currently working on Bewtech.io<br>🌱 I'm currently learning collective intelligence, e-commerce, livestream, digital marketing and IA <br>🌳I know well React, Typescript, JS, Redux, Saga, MUI, GIT and AWS <br>💬 Ask me about PHP, CI, VB, UX/UI and WCAG<br>📫How to reach me marlosvinicius.info@gmail.com<br>🌎 We can talk in Portuguese, Spanish or English <br>🕵🏽‍♂️Facts about me: I'm a kart racer, i love surfing and my family means everything to me.
+Hey 👋, I'm Marlos<br>know a little about me:<br><br>👨🏽‍💻 I'm currently working on Bewtech.io<br>🌱 I'm currently learning Data Science, IA <br>🌳I know well React, Typescript, JS, MUI, GIT and AWS <br>💬 Ask me about PHP, CI, VB, UX/UI and WCAG<br>📫How to reach me marlosvinicius.info@gmail.com<br>🌎 We can talk in Portuguese, Spanish or English <br>🕵🏽‍♂️Facts about me: I'm a kart racer, i love surfing and my family means everything to me.
 
 
 ## 🌐 Socials:
